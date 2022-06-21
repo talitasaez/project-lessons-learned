@@ -1,9 +1,9 @@
 body {
-     background-color: rgb(253, 251, 251);
+    background-color: rgb(253, 251, 251);
 }
 
 #cabeçalho {
-
+    color: blue;
 }
 
 #título {
@@ -20,7 +20,7 @@ body {
     width: 100px;
 }
 
-#licoes_aprendidas{
+#licoes_aprendidas {
     color: black;
 
 }
@@ -29,6 +29,7 @@ body {
     color: blue;
 
 }
+
 #rodape {
     font-size: 13px;
 }
