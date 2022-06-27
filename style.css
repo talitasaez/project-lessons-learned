@@ -10,14 +10,6 @@ body {
     
 }
 
-#titulo {
-    color: white;
-    letter-spacing: -1px;
-    font-size: 35px;
-    line-height: 120px;
-    font-weight: 600;
-    background-color: green;
-}
 
 #minha_foto {
     width: 100px;
@@ -36,4 +28,13 @@ body {
 #rodape {
     font-size: 13px;
     line-height: 100px;
+}
+
+#titulo {
+color: white;
+letter-spacing: -1px;
+font-size: 35px;
+line-height: 120px;
+font-weight: 600;
+background-color: green;
 }
